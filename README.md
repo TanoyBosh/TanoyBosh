@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TanoyBosh
-- 👀 I’m interested in IT technologies.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on IT industry
+-    I’m interested in IT technologies.
+-    I’m currently learning Python
+-    I’m looking to collaborate on IT industry
 - 📫 How to reach me ... just mail at 'tanoybosh@gmail.com'
 
 <!---
