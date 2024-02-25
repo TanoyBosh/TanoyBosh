@@ -15,9 +15,9 @@ Here are some projects I'm proud of:
 
 - Covid-19 Vaccine Registration Web App (https://github.com/TanoyBosh/Covid-19-Vaccine-Registration)
 - A Comparative Analysis of LSTM and SVR for Financial Market Stock Price Prediction (https://github.com/TanoyBosh/LSTM-vs-SVR)
-- [Project 3](Link to Project 3): Brief description
 
-Feel free to explore more in my [repositories](Link to your repositories)!
+
+Feel free to explore more in my repositories (https://github.com/TanoyBosh?tab=repositories)!
 
 ## 📈 GitHub Stats
 
