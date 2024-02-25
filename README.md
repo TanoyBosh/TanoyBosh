@@ -21,7 +21,7 @@ Feel free to explore more in my repositories (https://github.com/TanoyBosh?tab=r
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanoyBosh&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanoybosh&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
