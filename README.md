@@ -1,13 +1,13 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate [Your Profession/Field] based in [Your Location]. Welcome to my GitHub profile!
+I'm Tanoy Bosh, a passionate Software Engineer based in Kolkata. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** [List of programming languages you're proficient in]
-- **Web Technologies:** [List of web technologies you're familiar with]
-- **Databases:** [List of databases you've worked with]
-- **Frameworks:** [List of frameworks you've used]
+- **Languages:** C++, Python
+- **Web Technologies:** HTML, CSS, Javascript
+- **Databases:** MongoDB
+- **Frameworks:** React, NodeJS, ExpressJS
 
 ## 🚀 Projects
 
@@ -21,16 +21,15 @@ Feel free to explore more in my [repositories](Link to your repositories)!
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](Link to your GitHub profile)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanoyBosh&show_icons=true&theme=radical)](Link to your GitHub profile)
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](Link to your LinkedIn profile)
-- Twitter: [Your Twitter Handle](Link to your Twitter profile)
+- LinkedIn: Tanoy Bosh (https://www.linkedin.com/in/tanoy-bosh/)
 
 ## 🌱 I'm Currently Learning
 
-[List any technologies or skills you are currently learning or improving]
+React
 
 ## 👯‍♀️ Looking to Collaborate?
 
