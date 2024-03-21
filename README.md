@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Tanoy Bosh, a passionate Software Engineer based in Kolkata. Welcome to my GitHub profile!
+I'm @ Tanoy Bosh, a passionate Software Engineer based in Kolkata. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
