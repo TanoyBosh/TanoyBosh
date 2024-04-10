@@ -13,7 +13,7 @@ I'm @ Tanoy Bosh, a passionate Software Engineer based in Kolkata. Welcome to my
 
 Here are some projects I'm proud of:
 
-- Covid-19 Vaccine Registration Web App (https://github.com/TanoyBosh/Covid-19-Vaccine-Registration)
+- Covid-19 Vaccine Registration Web App (https://github.com/TanoyBosh/Covid-19-Registration-Web-App)
 - A Comparative Analysis of LSTM and SVR for Financial Market Stock Price Prediction (https://github.com/TanoyBosh/LSTM-vs-SVR)
 
 
